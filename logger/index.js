@@ -1,4 +1,4 @@
-const loggerConf = require('./logger.conf');
+const loggerConf = require('./logger.conf_dev');
 
 let logger = null;
 
