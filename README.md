@@ -1,6 +1,6 @@
 # Server Starter Folder
 
-Are you tired of always creating the same structure from scratch for your projects? Me too. yawning_face
+Are you tired of always creating the same structure from scratch for your projects? Me too. 
 
 This is my go-to when I start a new project on backend-end development.
 
@@ -87,3 +87,6 @@ Feel free to customize this starter folder to fit the needs of your project.
 If you have any questions or issues, please open an issue on the GitHub repository.
 
 
+## Author 
+
+krishna seth
