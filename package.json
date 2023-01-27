@@ -6,7 +6,12 @@
   "scripts": {
     "start": "nodemon ./server/server.js",
     "test": "mocha ./server/",
-    "postinstall":"husky install"
+    "postinstall":"husky install",
+    "prettier": "prettier --ignore-path .gitignore \"**/*.+(ts|tsx|js|jsx|json|css|md|mdx|html)\"",
+    "prettier:fix": "prettier --ignore-path .gitignore \"**/*.+(ts|tsx|js|jsx|json|css|md|mdx|html)\" --write",
+    "lint": "eslint --ignore-path .gitignore --ext .js,.jsx,.ts,.tsx .",
+    "lint:fix": "npm run lint -- --fix",
+    "lint-staged": "lint-staged — config .lintstagedrc"
   },
   "repository": {
     "type": "git",
