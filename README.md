@@ -33,6 +33,15 @@ This repository contains a basic file structure and configuration for starting a
 
 [see this ](https://typicode.github.io/husky/#/?id=yarn-2)
 
+# 🔮 What’s inside?
+
+- 💅 [Prettier](https://prettier.io/) - Opinionated Code Formatter.
+- 🔍 [ESLint](https://eslint.org/) - Tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+- 🐶 [Husky](https://github.com/typicode/husky) - Git hooks made easy.
+  - 🪝 commit-msg
+  - 🪝 pre-commit
+- 🚫 [Lint Staged](https://github.com/okonet/lint-staged) - Run linters on git staged files.
+- ✍️ [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) with 🎉 [Gitmoji](https://gitmoji.dev/) - A specification for adding human and machine readable meaning to commit messages.
 
 ## Additional Information
 
