@@ -21,6 +21,8 @@ This repository contains a basic file structure and configuration for starting a
 
 - degit a-s-t-e-y-a/server_starter_folder <folder_name>
 
+- cd <folder_name>
+
 - yarn
 
 - npm start
