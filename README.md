@@ -19,7 +19,7 @@ This repository contains a basic file structure and configuration for starting a
 
 ## Roadmap
 
-- degit a-s-t-e-y-a/server_startter_folder <folder_name>
+- degit a-s-t-e-y-a/server_starter_folder <folder_name>
 
 - yarn
 
