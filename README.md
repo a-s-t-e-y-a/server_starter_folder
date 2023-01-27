@@ -29,6 +29,10 @@ This repository contains a basic file structure and configuration for starting a
 
 - npm test
 
+## if you are going to use yarn
+
+[see this ](https://typicode.github.io/husky/#/?id=yarn-2)
+
 
 ## Additional Information
 
