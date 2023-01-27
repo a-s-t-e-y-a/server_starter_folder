@@ -1,5 +1,5 @@
 {
-  "name": "template_folder_structure",
+  "name": "server_starter_template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,6 +27,7 @@
     "express": "^4.18.2",
     "joi": "^17.7.0",
     "jsonwebtoken": "^8.5.1",
+    "lint-staged": "^13.1.0",
     "winston": "^3.8.2"
   },
   "devDependencies": {
@@ -36,7 +37,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-prettier": "^4.2.1",
-    "husky": "^8.0.2",
+    "husky": "^8.0.3",
     "mocha": "^10.2.0",
     "nodemon": "^2.0.20",
     "prettier": "^2.8.1",
