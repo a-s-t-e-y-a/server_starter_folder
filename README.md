@@ -2,7 +2,7 @@
 
 Are you tired of always creating the same structure from scratch for your projects? Me too. yawning_face
 
-This is my go-to when I start a new project on front-end development.
+This is my go-to when I start a new project on backend-end development.
 
 If you found it useful somehow, I would be grateful if you could leave a star in the project's GitHub repository
 This repository contains a basic file structure and configuration for starting a new server-side project. It includes the following:
