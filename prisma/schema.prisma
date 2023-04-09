@@ -7,7 +7,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("postgres://krishna:df34qf3pmeslfowkjb1kz8i5h8askierp4k152a2132rdewdf@localhost:5432/book_ecom")
+  url      = env("url goes here")
 }
 
 /// model for user
