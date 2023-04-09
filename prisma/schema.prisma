@@ -7,5 +7,16 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
+  url      = env("postgres://krishna:df34qf3pmeslfowkjb1kz8i5h8askierp4k152a2132rdewdf@localhost:5432/book_ecom")
+}
+
+/// model for user
+
+model User {
+  id        Int      @id @default(autoincrement())
+  username  String   @unique
+  email     String   @unique
+  password  String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
